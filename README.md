@@ -1,0 +1,2 @@
+# user
+example with beego
